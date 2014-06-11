@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Built-By: gshirsa
+Build-Jdk: 1.6.0_27
+Class-Path: lib/base-1.0.jar lib/commons-digester-1.8.jar lib/commons-
+ beanutils-1.7.0.jar lib/commons-logging-1.1.jar lib/logkit-1.0.1.jar 
+ lib/avalon-framework-4.1.3.jar lib/servlet-api-2.3.jar lib/commons-la
+ ng-2.6.jar lib/commons-io-2.0.1.jar lib/commons-net-3.1.jar lib/xstre
+ am-1.3.1.jar lib/xpp3_min-1.1.4c.jar lib/hibernate-commons-annotation
+ s-4.0.1.Final.jar lib/jboss-logging-3.1.0.CR2.jar lib/hibernate-core-
+ 4.0.1.Final.jar lib/commons-collections-3.2.1.jar lib/antlr-2.7.7.jar
+  lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar lib/dom4j-1.6.1.j
+ ar lib/xml-apis-1.0.b2.jar lib/javassist-3.15.0-GA.jar lib/hibernate-
+ jpa-2.0-api-1.0.1.Final.jar lib/spring-core-3.1.1.RELEASE.jar lib/spr
+ ing-asm-3.1.1.RELEASE.jar lib/spring-beans-3.1.1.RELEASE.jar lib/spri
+ ng-context-3.1.1.RELEASE.jar lib/spring-aop-3.1.1.RELEASE.jar lib/spr
+ ing-expression-3.1.1.RELEASE.jar lib/spring-context-support-3.1.1.REL
+ EASE.jar lib/spring-jdbc-3.1.1.RELEASE.jar lib/spring-orm-3.1.1.RELEA
+ SE.jar lib/spring-tx-3.1.1.RELEASE.jar lib/aopalliance-1.0.jar lib/si
+ mple-xml-2.1.6.jar lib/simple-4.1.14.jar lib/stax-api-1.0.1.jar lib/s
+ tax-1.2.0.jar lib/mail-1.4.7.jar lib/activation-1.1.jar lib/unrar-0.3
+ .jar lib/slf4j-api-1.5.8.jar lib/slf4j-log4j12-1.5.2.jar lib/log4j-1.
+ 2.14.jar lib/rome-1.0.jar lib/jdom-1.0.jar lib/commons-exec-1.2.jar l
+ ib/spring-test-3.1.1.RELEASE.jar lib/junit-4.10.jar lib/hamcrest-core
+ -1.1.jar
+Created-By: Maven Integration for Eclipse
+
