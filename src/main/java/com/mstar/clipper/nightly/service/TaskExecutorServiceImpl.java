@@ -78,6 +78,7 @@ public class TaskExecutorServiceImpl implements TaskExecutorService
 
 				ActivityExecutor activityExec = new ActivityExecutor(activity, activityHolder);
 				executorPool.execute(activityExec);
+				Log.logInfo(log, "Activity " + activity.getName() + " put in Executor queue");
 
 				// Thread.sleep(5000);
 			}
